@@ -1,0 +1,100 @@
+{
+  "inv_01000": {
+    "vendor_name": "Silverline Cobalt Packaging",
+    "invoice_number": "2025-5627",
+    "invoice_date": "2025-05-09",
+    "due_date": "2025-05-16",
+    "subtotal": "UNANSWERABLE",
+    "tax_amount": "9629.96",
+    "total_amount": "89879.66",
+    "currency": "INR"
+  },
+  "inv_01001": {
+    "vendor_name": "Krishnan Design Bureau Pvt Ltd",
+    "invoice_number": "INV-25617",
+    "invoice_date": "2025-04-19",
+    "due_date": "UNANSWERABLE",
+    "subtotal": "34935.13",
+    "tax_amount": "3501.53",
+    "total_amount": "38436.66",
+    "currency": "INR"
+  },
+  "inv_01002": {
+    "vendor_name": "Becker Consulting",
+    "invoice_number": "A/7534",
+    "invoice_date": "2025-08-01",
+    "due_date": "2025-08-31",
+    "subtotal": "129121.16",
+    "tax_amount": "6456.05",
+    "total_amount": "135577.21",
+    "currency": "INR"
+  },
+  "inv_01003": {
+    "vendor_name": "Chen Tool Supply LLC",
+    "invoice_number": "2025-6015",
+    "invoice_date": "2025-10-24",
+    "due_date": "UNANSWERABLE",
+    "subtotal": "123559.64",
+    "tax_amount": "8958.09",
+    "total_amount": "132517.73",
+    "currency": "USD"
+  },
+  "inv_01004": {
+    "vendor_name": "Sable Textiles N.V.",
+    "invoice_number": "INV-45115",
+    "invoice_date": "2025-10-26",
+    "due_date": "2025-11-25",
+    "subtotal": "87025.16",
+    "tax_amount": "7832.27",
+    "total_amount": "94857.43",
+    "currency": "EUR"
+  },
+  "inv_01005": {
+    "vendor_name": "HMR Facilities & Sons",
+    "invoice_number": "2025-7072",
+    "invoice_date": "2025-04-12",
+    "due_date": "2025-05-27",
+    "subtotal": "69073.32",
+    "tax_amount": "9434.75",
+    "total_amount": "UNANSWERABLE",
+    "currency": "GBP"
+  },
+  "inv_01006": {
+    "vendor_name": "Juniper Landscaping Co.",
+    "invoice_number": "2504-647",
+    "invoice_date": "2025-04-29",
+    "subtotal": "69154.49",
+    "tax_amount": "3457.73",
+    "total_amount": "72612.22",
+    "currency": "GBP"
+  },
+  "inv_01007": {
+    "vendor_name": "Ivory Lakeside Studio Traders",
+    "invoice_number": "INV-59599",
+    "invoice_date": "UNANSWERABLE",
+    "due_date": "2026-02-24",
+    "subtotal": "53503.31",
+    "tax_amount": "8231.92",
+    "total_amount": "61735.23",
+    "currency": "INR"
+  },
+  "inv_01008": {
+    "vendor_name": "Castellan Summit Electrical Ltd",
+    "invoice_number": "B845569",
+    "invoice_date": "2026-07-12",
+    "subtotal": "UNANSWERABLE",
+    "tax_amount": "6442.44",
+    "total_amount": "135291.55",
+    "currency": "GBP"
+  },
+  "inv_01009": {
+    "vendor_name": "SR Print Works & Sons",
+    "invoice_number": "2512-840",
+    "invoice_date": "2025-12-26",
+    "due_date": "2026-01-09",
+    "subtotal": "49282.73",
+    "tax_amount": "7338.36",
+    "total_amount": "56621.09",
+    "currency": "GBP"
+  }
+}

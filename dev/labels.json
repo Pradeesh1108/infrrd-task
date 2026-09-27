@@ -1,0 +1,2682 @@
+{
+ "inv_01000": {
+  "vendor_name": "Silverline Cobalt Packaging",
+  "invoice_number": "2025-5627",
+  "invoice_date": "2025-05-09",
+  "due_date": "2025-05-16",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "9629.96",
+  "total_amount": "89879.66",
+  "currency": "INR"
+ },
+ "inv_01001": {
+  "vendor_name": "Krishnan Design Bureau Pvt Ltd",
+  "invoice_number": "INV-25617",
+  "invoice_date": "2025-04-19",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "34935.13",
+  "tax_amount": "3501.53",
+  "total_amount": "38436.66",
+  "currency": "INR"
+ },
+ "inv_01002": {
+  "vendor_name": "Becker Consulting",
+  "invoice_number": "A/7534",
+  "invoice_date": "2025-08-01",
+  "due_date": "2025-08-31",
+  "subtotal": "129121.16",
+  "tax_amount": "6456.05",
+  "total_amount": "135577.21",
+  "currency": "INR"
+ },
+ "inv_01003": {
+  "vendor_name": "Chen Tool Supply LLC",
+  "invoice_number": "2025-6015",
+  "invoice_date": "2025-10-24",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "123559.64",
+  "tax_amount": "8958.09",
+  "total_amount": "132517.73",
+  "currency": "USD"
+ },
+ "inv_01004": {
+  "vendor_name": "Sable Textiles N.V.",
+  "invoice_number": "INV-45115",
+  "invoice_date": "2025-10-26",
+  "due_date": "2025-11-25",
+  "subtotal": "87025.16",
+  "tax_amount": "7832.27",
+  "total_amount": "94857.43",
+  "currency": "EUR"
+ },
+ "inv_01005": {
+  "vendor_name": "HMR Facilities & Sons",
+  "invoice_number": "2025-7072",
+  "invoice_date": "2025-04-12",
+  "due_date": "2025-05-27",
+  "subtotal": "69073.32",
+  "tax_amount": "9434.75",
+  "total_amount": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "inv_01006": {
+  "vendor_name": "Juniper Landscaping Co.",
+  "invoice_number": "2504-647",
+  "invoice_date": "2025-04-29",
+  "subtotal": "69154.49",
+  "tax_amount": "3457.73",
+  "total_amount": "72612.22",
+  "currency": "GBP"
+ },
+ "inv_01007": {
+  "vendor_name": "Ivory Lakeside Studio Traders",
+  "invoice_number": "INV-59599",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2026-02-24",
+  "subtotal": "53503.31",
+  "tax_amount": "8231.92",
+  "total_amount": "61735.23",
+  "currency": "INR"
+ },
+ "inv_01008": {
+  "vendor_name": "Castellan Summit Electrical Ltd",
+  "invoice_number": "B845569",
+  "invoice_date": "2026-07-12",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "6442.44",
+  "total_amount": "135291.55",
+  "currency": "GBP"
+ },
+ "inv_01009": {
+  "vendor_name": "SR Print Works & Sons",
+  "invoice_number": "2512-840",
+  "invoice_date": "2025-12-26",
+  "due_date": "2026-01-09",
+  "subtotal": "49282.73",
+  "tax_amount": "7338.36",
+  "total_amount": "56621.09",
+  "currency": "GBP"
+ },
+ "inv_01010": {
+  "vendor_name": "Carter Signage Pvt Ltd",
+  "invoice_number": "INV-83339",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2026-01-15",
+  "subtotal": "131060.15",
+  "tax_amount": "15727.21",
+  "total_amount": "146787.36",
+  "currency": "INR"
+ },
+ "inv_01011": {
+  "vendor_name": "Byrne IT Services plc",
+  "invoice_number": "B584799",
+  "invoice_date": "2026-07-27",
+  "due_date": "2026-08-10",
+  "subtotal": "79512.00",
+  "tax_amount": "15902.40",
+  "total_amount": "95414.40",
+  "currency": "GBP"
+ },
+ "inv_01012": {
+  "vendor_name": "MB Consulting N.V.",
+  "invoice_number": "2025-6948",
+  "invoice_date": "2025-10-29",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "116548.90",
+  "currency": "EUR"
+ },
+ "inv_01013": {
+  "vendor_name": "Vantage Catering Group",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-06-11",
+  "due_date": "2025-07-26",
+  "subtotal": "226632.42",
+  "tax_amount": "18697.17",
+  "total_amount": "245329.59",
+  "currency": "USD"
+ },
+ "inv_01014": {
+  "vendor_name": "Schmidt & Whitfield Cleaning Services SAS",
+  "invoice_number": "2511-447",
+  "invoice_date": "2025-11-06",
+  "due_date": "2025-11-20",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "74021.25",
+  "currency": "EUR"
+ },
+ "inv_01015": {
+  "vendor_name": "Greenline Sunrise Supply SARL",
+  "invoice_number": "K760157",
+  "invoice_date": "2025-05-20",
+  "due_date": "2025-05-27",
+  "subtotal": "128460.18",
+  "tax_amount": "12846.01",
+  "total_amount": "141306.19",
+  "currency": "EUR"
+ },
+ "inv_01016": {
+  "vendor_name": "Foxglove Design Bureau Group",
+  "invoice_number": "A/5209",
+  "invoice_date": "2026-02-16",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "62333.12",
+  "tax_amount": "4519.16",
+  "total_amount": "66852.28",
+  "currency": "USD"
+ },
+ "inv_01017": {
+  "vendor_name": "Murphy & Singh Marine Services LLP",
+  "invoice_number": "A/7374",
+  "invoice_date": "2025-10-30",
+  "due_date": "2025-12-14",
+  "subtotal": "116976.36",
+  "tax_amount": "21055.75",
+  "total_amount": "138032.11",
+  "currency": "INR"
+ },
+ "inv_01018": {
+  "vendor_name": "Cole & Vermeulen Studio Ltd.",
+  "invoice_number": "2025-4878",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2025-11-14",
+  "subtotal": "62235.68",
+  "tax_amount": "5134.44",
+  "total_amount": "67370.12",
+  "currency": "USD"
+ },
+ "inv_01019": {
+  "vendor_name": "Martin Landscaping Co.",
+  "invoice_number": "2501-457",
+  "invoice_date": "2025-01-30",
+  "due_date": "2025-03-31",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "71305.39",
+  "currency": "GBP"
+ },
+ "inv_01020": {
+  "vendor_name": "Osei & Sullivan Fabrication Pvt Ltd",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-05-07",
+  "due_date": "2025-05-21",
+  "subtotal": "157190.95",
+  "tax_amount": "44013.46",
+  "total_amount": "201204.41",
+  "currency": "INR"
+ },
+ "inv_01021": {
+  "vendor_name": "Bennett & Vermeulen Media House & Co.",
+  "invoice_number": "A/8573",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-01-20",
+  "subtotal": "100882.47",
+  "tax_amount": "16472.43",
+  "total_amount": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "inv_01022": {
+  "vendor_name": "Ivory Beacon Logistics GmbH & Co. KG",
+  "invoice_number": "M588289",
+  "invoice_date": "2025-12-29",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "2633.28",
+  "total_amount": "40251.68",
+  "currency": "EUR"
+ },
+ "inv_01023": {
+  "vendor_name": "Mensah Textiles & Sons",
+  "invoice_number": "A/6323",
+  "invoice_date": "2025-04-03",
+  "due_date": "2025-05-03",
+  "subtotal": "180591.04",
+  "tax_amount": "9029.57",
+  "total_amount": "189620.61",
+  "currency": "GBP"
+ },
+ "inv_01024": {
+  "vendor_name": "Sable Vantage Tool Supply Traders",
+  "invoice_number": "A/8226",
+  "invoice_date": "2026-02-07",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "20600.43",
+  "total_amount": "192270.66",
+  "currency": "INR"
+ },
+ "inv_01025": {
+  "vendor_name": "Zenith Zenith Fabrication",
+  "invoice_number": "INV-85079",
+  "invoice_date": "2025-03-03",
+  "subtotal": "72142.18",
+  "tax_amount": "4508.89",
+  "total_amount": "76651.07",
+  "currency": "USD"
+ },
+ "inv_01026": {
+  "vendor_name": "Murphy & Byrne Cleaning Services Private Limited",
+  "invoice_number": "2025-6550",
+  "invoice_date": "2025-09-26",
+  "subtotal": "102298.37",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "130941.89",
+  "currency": "INR"
+ },
+ "inv_01027": {
+  "vendor_name": "Garcia Safety Equipment",
+  "invoice_number": "2607-153",
+  "invoice_date": "2026-07-21",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "161500.90",
+  "tax_amount": "11305.06",
+  "total_amount": "172805.96",
+  "currency": "EUR"
+ },
+ "inv_01028": {
+  "vendor_name": "Sullivan & Reyes Design Bureau SARL",
+  "invoice_number": "INV-70003",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2025-02-10",
+  "subtotal": "187986.74",
+  "tax_amount": "37597.37",
+  "total_amount": "225584.11",
+  "currency": "EUR"
+ },
+ "inv_01029": {
+  "vendor_name": "Murphy Marine Services",
+  "invoice_number": "INV-81136",
+  "invoice_date": "2025-04-06",
+  "due_date": "2025-04-20",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "4467.90",
+  "total_amount": "93825.75",
+  "currency": "GBP"
+ },
+ "inv_02000": {
+  "vendor_name": "Trident Tool Supply",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-01-29",
+  "due_date": "2025-02-28",
+  "subtotal": "100800.77",
+  "tax_amount": "8946.08",
+  "total_amount": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "inv_02001": {
+  "vendor_name": "Meridian Castellan Consulting",
+  "invoice_number": "2606-398",
+  "invoice_date": "2026-06-19",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "20051.70",
+  "total_amount": "120310.26",
+  "currency": "GBP"
+ },
+ "inv_02002": {
+  "vendor_name": "Juniper Redwood Media House LLC",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-03-22",
+  "due_date": "2025-05-21",
+  "subtotal": "85536.09",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "93127.43",
+  "currency": "USD"
+ },
+ "inv_02003": {
+  "vendor_name": "Suzuki Landscaping Ltd",
+  "invoice_number": "2026-6215",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2026-03-11",
+  "subtotal": "157030.37",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "188436.44",
+  "currency": "GBP"
+ },
+ "inv_02004": {
+  "vendor_name": "Granite Media House GmbH & Co. KG",
+  "invoice_number": "2025-2824",
+  "invoice_date": "2025-12-22",
+  "due_date": "2026-01-21",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "4028.05",
+  "total_amount": "61571.54",
+  "currency": "EUR"
+ },
+ "inv_02005": {
+  "vendor_name": "RQ Logistics & Co.",
+  "invoice_number": "2504-641",
+  "invoice_date": "2025-04-10",
+  "due_date": "2025-04-17",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "76492.09",
+  "currency": "INR"
+ },
+ "inv_02006": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "2025-8023",
+  "invoice_date": "2025-08-08",
+  "due_date": "2025-10-07",
+  "subtotal": "109818.05",
+  "tax_amount": "9883.64",
+  "total_amount": "119701.69",
+  "currency": "EUR"
+ },
+ "inv_02007": {
+  "vendor_name": "Vantage Amber Software Corp.",
+  "invoice_number": "2026-6305",
+  "invoice_date": "2026-04-01",
+  "due_date": "2026-04-08",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "2377.38",
+  "total_amount": "31194.52",
+  "currency": "USD"
+ },
+ "inv_02008": {
+  "vendor_name": "Hoffmann Cleaning Services plc",
+  "invoice_number": "M154271",
+  "invoice_date": "2025-06-22",
+  "due_date": "2025-07-22",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "169665.22",
+  "currency": "GBP"
+ },
+ "inv_02009": {
+  "vendor_name": "Vale Plumbing V.O.F.",
+  "invoice_number": "INV-85321",
+  "invoice_date": "2025-08-11",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "41069.36",
+  "total_amount": "236637.55",
+  "currency": "EUR"
+ },
+ "inv_02010": {
+  "vendor_name": "Lefevre & Hughes Consulting Co.",
+  "invoice_number": "2603-674",
+  "invoice_date": "2026-03-22",
+  "due_date": "2026-04-05",
+  "subtotal": "28519.78",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "34223.73",
+  "currency": "GBP"
+ },
+ "inv_02011": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "2025-7879",
+  "invoice_date": "2025-12-01",
+  "due_date": "2025-12-08",
+  "subtotal": "96077.50",
+  "tax_amount": "12970.46",
+  "total_amount": "109047.96",
+  "currency": "EUR"
+ },
+ "inv_02012": {
+  "vendor_name": "Heron Sable HVAC",
+  "invoice_number": "A/9832",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2026-03-29",
+  "subtotal": "191701.69",
+  "tax_amount": "44091.36",
+  "total_amount": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "inv_02013": {
+  "vendor_name": "Highfield Westbrook Timber & Sons",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2026-06-30",
+  "subtotal": "82562.39",
+  "tax_amount": "14803.88",
+  "total_amount": "97366.27",
+  "currency": "GBP"
+ },
+ "inv_02014": {
+  "vendor_name": "UY Plumbing & Cie",
+  "invoice_number": "B940321",
+  "invoice_date": "2025-09-18",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "2505.11",
+  "total_amount": "34049.05",
+  "currency": "EUR"
+ },
+ "inv_02015": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "2509-490",
+  "invoice_date": "2025-09-26",
+  "due_date": "2025-10-03",
+  "subtotal": "50148.42",
+  "tax_amount": "10531.17",
+  "total_amount": "60679.59",
+  "currency": "EUR"
+ },
+ "inv_02016": {
+  "vendor_name": "Cobalt Timber N.V.",
+  "invoice_number": "A/4948",
+  "invoice_date": "2025-03-31",
+  "due_date": "2025-04-14",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "88808.80",
+  "currency": "EUR"
+ },
+ "inv_02017": {
+  "vendor_name": "Carter Landscaping Group",
+  "invoice_number": "K738946",
+  "invoice_date": "2026-05-31",
+  "due_date": "2026-06-07",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "231856.58",
+  "currency": "USD"
+ },
+ "inv_02018": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "2025-7500",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2025-11-17",
+  "subtotal": "84792.94",
+  "tax_amount": "6147.49",
+  "total_amount": "90940.43",
+  "currency": "USD"
+ },
+ "inv_02019": {
+  "vendor_name": "Singh Fabrication Limited",
+  "invoice_number": "A/8474",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2025-08-26",
+  "subtotal": "263638.35",
+  "tax_amount": "52727.68",
+  "total_amount": "316366.03",
+  "currency": "GBP"
+ },
+ "inv_02020": {
+  "vendor_name": "Rossi Supply S.A.",
+  "invoice_number": "A/4289",
+  "invoice_date": "UNANSWERABLE",
+  "subtotal": "311422.28",
+  "tax_amount": "31142.24",
+  "total_amount": "342564.52",
+  "currency": "EUR"
+ },
+ "inv_02021": {
+  "vendor_name": "Fernandez & Hoffmann Engineering Corp.",
+  "invoice_number": "2025-8834",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2025-04-11",
+  "subtotal": "141110.72",
+  "tax_amount": "11641.63",
+  "total_amount": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "inv_02022": {
+  "vendor_name": "Tidewater Northgate Consulting Ltd",
+  "invoice_number": "2510-586",
+  "invoice_date": "2025-10-13",
+  "due_date": "2025-12-12",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "3105.31",
+  "total_amount": "65211.08",
+  "currency": "GBP"
+ },
+ "inv_02023": {
+  "vendor_name": "Granite Kingfisher Office Systems LLP",
+  "invoice_number": "2506-688",
+  "invoice_date": "2025-06-20",
+  "due_date": "2025-08-04",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "103647.49",
+  "currency": "INR"
+ },
+ "inv_02024": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "2025-1597",
+  "invoice_date": "2025-11-09",
+  "subtotal": "141186.18",
+  "tax_amount": "7059.30",
+  "total_amount": "148245.48",
+  "currency": "GBP"
+ },
+ "inv_02025": {
+  "vendor_name": "Redwood Quill Freight GmbH & Co. KG",
+  "invoice_number": "2606-339",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2026-08-06",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "17885.21",
+  "total_amount": "112017.89",
+  "currency": "EUR"
+ },
+ "inv_02026": {
+  "vendor_name": "Walsh Packaging KG",
+  "invoice_number": "INV-28939",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2026-02-12",
+  "subtotal": "168190.76",
+  "tax_amount": "31956.26",
+  "total_amount": "200147.02",
+  "currency": "EUR"
+ },
+ "inv_02027": {
+  "vendor_name": "Pinnacle Redwood Engineering Limited",
+  "invoice_number": "2507-485",
+  "invoice_date": "2025-07-12",
+  "due_date": "2025-09-10",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "13528.83",
+  "total_amount": "81173.01",
+  "currency": "GBP"
+ },
+ "inv_02028": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "A/4847",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-06-23",
+  "subtotal": "213925.70",
+  "tax_amount": "44924.38",
+  "total_amount": "258850.08",
+  "currency": "EUR"
+ },
+ "inv_02029": {
+  "vendor_name": "Lefevre Landscaping SARL",
+  "invoice_number": "A/1693",
+  "invoice_date": "2025-07-08",
+  "due_date": "2025-08-07",
+  "subtotal": "67373.39",
+  "tax_amount": "8346.19",
+  "total_amount": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "inv_02030": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "M973348",
+  "invoice_date": "2026-02-15",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "54484.60",
+  "tax_amount": "7355.42",
+  "total_amount": "61840.02",
+  "currency": "EUR"
+ },
+ "inv_02031": {
+  "vendor_name": "Quartz Marine Services",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2026-05-25",
+  "due_date": "2026-07-24",
+  "subtotal": "108785.72",
+  "tax_amount": "7886.97",
+  "total_amount": "116672.69",
+  "currency": "USD"
+ },
+ "inv_02032": {
+  "vendor_name": "JAZ Studio Ltd",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2026-05-11",
+  "subtotal": "49410.06",
+  "tax_amount": "2470.50",
+  "total_amount": "51880.56",
+  "currency": "GBP"
+ },
+ "inv_02033": {
+  "vendor_name": "Larsen & Cole Machinery Enterprises",
+  "invoice_number": "INV-43734",
+  "invoice_date": "2025-12-14",
+  "due_date": "2025-12-28",
+  "subtotal": "86560.10",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "inv_02034": {
+  "vendor_name": "PYH Cleaning Services Traders",
+  "invoice_number": "A/9958",
+  "invoice_date": "UNANSWERABLE",
+  "subtotal": "88918.06",
+  "tax_amount": "11129.80",
+  "total_amount": "100047.86",
+  "currency": "INR"
+ },
+ "inv_02035": {
+  "vendor_name": "Pioneer Riverbend Facilities DAC",
+  "invoice_number": "B343797",
+  "invoice_date": "2025-01-11",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "8846.88",
+  "total_amount": "47311.62",
+  "currency": "EUR"
+ },
+ "inv_02036": {
+  "vendor_name": "Kingfisher Event Rentals SA",
+  "invoice_number": "A/5307",
+  "invoice_date": "2025-06-19",
+  "due_date": "2025-06-26",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "8364.90",
+  "total_amount": "75737.98",
+  "currency": "EUR"
+ },
+ "inv_02037": {
+  "vendor_name": "Greenline Castellan Signage",
+  "invoice_number": "A/8003",
+  "invoice_date": "2025-07-21",
+  "due_date": "2025-09-19",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "144278.49",
+  "currency": "EUR"
+ },
+ "inv_02038": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "A/6758",
+  "invoice_date": "2026-02-03",
+  "due_date": "2026-02-17",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "20496.12",
+  "total_amount": "122976.65",
+  "currency": "GBP"
+ },
+ "inv_02039": {
+  "vendor_name": "Quill Harbor Facilities",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2026-06-03",
+  "due_date": "2026-07-03",
+  "subtotal": "244890.48",
+  "tax_amount": "12244.54",
+  "total_amount": "257135.02",
+  "currency": "INR"
+ },
+ "inv_02040": {
+  "vendor_name": "MA HVAC LLC",
+  "invoice_number": "2510-254",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2025-11-05",
+  "subtotal": "134067.81",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "145128.43",
+  "currency": "USD"
+ },
+ "inv_02041": {
+  "vendor_name": "Evergreen Cobalt Packaging Enterprises",
+  "invoice_number": "A/3661",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2026-09-21",
+  "subtotal": "142071.29",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "159119.87",
+  "currency": "INR"
+ },
+ "inv_02042": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "2025-6675",
+  "invoice_date": "2025-07-12",
+  "due_date": "2025-08-26",
+  "subtotal": "96039.11",
+  "tax_amount": "8939.64",
+  "total_amount": "104978.75",
+  "currency": "INR"
+ },
+ "inv_02043": {
+  "vendor_name": "O'Donnell Marine Services S.L.U.",
+  "invoice_number": "2025-3659",
+  "invoice_date": "2025-09-24",
+  "due_date": "2025-10-24",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "25131.80",
+  "total_amount": "144806.92",
+  "currency": "EUR"
+ },
+ "inv_02044": {
+  "vendor_name": "NC Cleaning Services DAC",
+  "invoice_number": "2502-553",
+  "invoice_date": "2025-02-12",
+  "due_date": "2025-02-26",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "22805.28",
+  "total_amount": "168430.60",
+  "currency": "EUR"
+ },
+ "inv_03000": {
+  "vendor_name": "Nguyen & Sullivan Timber N.V.",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-08-31",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "16616.14",
+  "total_amount": "95740.58",
+  "currency": "EUR"
+ },
+ "inv_03001": {
+  "vendor_name": "Pioneer Software & Co.",
+  "invoice_number": "B576179",
+  "invoice_date": "2025-10-31",
+  "due_date": "2025-11-30",
+  "subtotal": "142498.33",
+  "tax_amount": "39899.53",
+  "total_amount": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "inv_03002": {
+  "vendor_name": "Pinnacle Amber Timber & Co.",
+  "invoice_number": "A/5649",
+  "invoice_date": "2025-11-17",
+  "subtotal": "101616.80",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "124988.67",
+  "currency": "EUR"
+ },
+ "inv_03003": {
+  "vendor_name": "Nair & Andersen IT Services Industries",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2026-03-27",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "30935.26",
+  "total_amount": "202797.84",
+  "currency": "INR"
+ },
+ "inv_03004": {
+  "vendor_name": "Fernandez Engineering",
+  "invoice_number": "A/6750",
+  "invoice_date": "UNANSWERABLE",
+  "subtotal": "169530.77",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "178007.32",
+  "currency": "INR"
+ },
+ "inv_03005": {
+  "vendor_name": "Northgate IT Services",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-03-03",
+  "subtotal": "105525.54",
+  "tax_amount": "7650.60",
+  "total_amount": "113176.14",
+  "currency": "USD"
+ },
+ "inv_03006": {
+  "vendor_name": "Singh & Martin HVAC plc",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2026-07-02",
+  "due_date": "2026-07-09",
+  "subtotal": "84554.72",
+  "tax_amount": "16910.93",
+  "total_amount": "101465.65",
+  "currency": "GBP"
+ },
+ "inv_03007": {
+  "vendor_name": "Juniper Consulting Traders",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-10-01",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "125319.51",
+  "tax_amount": "15038.35",
+  "total_amount": "140357.86",
+  "currency": "INR"
+ },
+ "inv_03008": {
+  "vendor_name": "Zenith Copperfield Timber",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2025-07-17",
+  "subtotal": "192019.56",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "205940.99",
+  "currency": "USD"
+ },
+ "inv_03009": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "INV-30199",
+  "invoice_date": "2025-12-20",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "98883.02",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "103827.16",
+  "currency": "GBP"
+ },
+ "inv_03010": {
+  "vendor_name": "IKF Security",
+  "invoice_number": "INV-35791",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "2026-08-25",
+  "subtotal": "105188.21",
+  "tax_amount": "21037.63",
+  "total_amount": "126225.84",
+  "currency": "GBP"
+ },
+ "inv_03011": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "A/3084",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "68365.72",
+  "tax_amount": "3760.12",
+  "total_amount": "72125.84",
+  "currency": "EUR"
+ },
+ "inv_03012": {
+  "vendor_name": "Statler Plumbing & Co.",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-08-19",
+  "subtotal": "74743.29",
+  "tax_amount": "3737.15",
+  "total_amount": "78480.44",
+  "currency": "INR"
+ },
+ "inv_03013": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "2026-2098",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-02-06",
+  "subtotal": "207478.59",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "225892.33",
+  "currency": "USD"
+ },
+ "inv_03014": {
+  "vendor_name": "Iyer Engineering & Co.",
+  "invoice_number": "2025-4768",
+  "invoice_date": "2025-03-30",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "126936.48",
+  "tax_amount": "6346.85",
+  "total_amount": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "inv_03015": {
+  "vendor_name": "Schmidt Cleaning Services Corp.",
+  "invoice_number": "A/3078",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "233062.96",
+  "tax_amount": "19227.68",
+  "total_amount": "252290.64",
+  "currency": "USD"
+ },
+ "inv_03016": {
+  "vendor_name": "Silverline Juniper Studio",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2026-04-22",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "155560.20",
+  "tax_amount": "13805.97",
+  "total_amount": "169366.17",
+  "currency": "USD"
+ },
+ "inv_03017": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "K118980",
+  "invoice_date": "2025-05-14",
+  "due_date": "2025-05-28",
+  "subtotal": "47019.37",
+  "tax_amount": "4172.96",
+  "total_amount": "51192.33",
+  "currency": "USD"
+ },
+ "inv_03018": {
+  "vendor_name": "Patel & Bennett Chemicals",
+  "invoice_number": "INV-75198",
+  "invoice_date": "2025-10-28",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "51302.78",
+  "total_amount": "274358.48",
+  "currency": "EUR"
+ },
+ "inv_03019": {
+  "vendor_name": "Westbrook Studio Groep",
+  "invoice_number": "2504-955",
+  "invoice_date": "2025-04-05",
+  "due_date": "2025-04-12",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "total_amount": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "inv_03020": {
+  "vendor_name": "ZU IT Services SA",
+  "invoice_number": "2601-842",
+  "invoice_date": "UNANSWERABLE",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "39585.38",
+  "total_amount": "237512.24",
+  "currency": "EUR"
+ },
+ "inv_03021": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "INV-12092",
+  "invoice_date": "2025-02-03",
+  "due_date": "2025-03-20",
+  "subtotal": "58901.66",
+  "tax_amount": "4859.38",
+  "total_amount": "63761.04",
+  "currency": "USD"
+ },
+ "inv_03022": {
+  "vendor_name": "Delta Event Rentals",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "2025-01-02",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "24780.01",
+  "total_amount": "208335.74",
+  "currency": "EUR"
+ },
+ "inv_03023": {
+  "vendor_name": "UNANSWERABLE",
+  "invoice_number": "2026-2782",
+  "invoice_date": "2026-01-17",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "UNANSWERABLE",
+  "tax_amount": "1723.99",
+  "total_amount": "36203.75",
+  "currency": "GBP"
+ },
+ "inv_03024": {
+  "vendor_name": "JSR Security",
+  "invoice_number": "UNANSWERABLE",
+  "invoice_date": "UNANSWERABLE",
+  "due_date": "UNANSWERABLE",
+  "subtotal": "201325.29",
+  "tax_amount": "46304.82",
+  "total_amount": "247630.11",
+  "currency": "EUR"
+ },
+ "pay_07000": {
+  "employer_name": "STF Airlines Pvt Ltd",
+  "employee_name": "Jakub Moreau",
+  "pay_period_start": "2025-10-15",
+  "pay_period_end": "2025-10-21",
+  "gross_pay": "7374.97",
+  "net_pay": "6314.68",
+  "currency": "INR"
+ },
+ "pay_07001": {
+  "employer_name": "BIW Engineering",
+  "employee_name": "Femke Schmidt",
+  "pay_period_start": "2026-02-08",
+  "pay_period_end": "2026-02-22",
+  "gross_pay": "UNANSWERABLE",
+  "net_pay": "1205.22",
+  "currency": "GBP"
+ },
+ "pay_07002": {
+  "employer_name": "OL Retail Industries",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-03-28",
+  "pay_period_end": "2025-04-11",
+  "gross_pay": "46425.70",
+  "net_pay": "28118.18",
+  "currency": "INR"
+ },
+ "pay_07003": {
+  "employer_name": "Navarro Pharma",
+  "employee_name": "Lucia Hoffmann",
+  "pay_period_start": "2025-07-15",
+  "pay_period_end": "2025-07-28",
+  "gross_pay": "5990.40",
+  "net_pay": "1752.75",
+  "currency": "USD"
+ },
+ "pay_07004": {
+  "employer_name": "Carter & Jensen Financial Services",
+  "employee_name": "Camille Martin",
+  "pay_period_start": "2025-02-25",
+  "pay_period_end": "2025-03-10",
+  "gross_pay": "3545.47",
+  "net_pay": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "pay_07005": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Femke Marshall",
+  "pay_period_start": "2026-01-19",
+  "pay_period_end": "2026-02-02",
+  "gross_pay": "5489.92",
+  "net_pay": "3905.41",
+  "currency": "GBP"
+ },
+ "pay_07006": {
+  "employer_name": "Alder Hospitality Corp.",
+  "employee_name": "Rohan Cole",
+  "pay_period_start": "2025-07-15",
+  "pay_period_end": "2025-07-21",
+  "gross_pay": "3917.01",
+  "net_pay": "2852.25",
+  "currency": "USD"
+ },
+ "pay_07007": {
+  "employer_name": "BU Construction",
+  "employee_name": "Clara Bennett",
+  "pay_period_start": "2025-01-14",
+  "pay_period_end": "2025-01-27",
+  "gross_pay": "9258.71",
+  "net_pay": "3234.97",
+  "currency": "USD"
+ },
+ "pay_07008": {
+  "employer_name": "UA Airlines Inc.",
+  "employee_name": "Rohan Sullivan",
+  "pay_period_start": "2025-04-20",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "5344.93",
+  "net_pay": "2713.88",
+  "currency": "USD"
+ },
+ "pay_07009": {
+  "employer_name": "Orbit Consulting Enterprises",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-09-18",
+  "pay_period_end": "2025-10-17",
+  "gross_pay": "55642.14",
+  "net_pay": "45413.54",
+  "currency": "INR"
+ },
+ "pay_07010": {
+  "employer_name": "SM Hospital",
+  "employee_name": "Beatriz Marshall",
+  "pay_period_start": "2025-12-19",
+  "pay_period_end": "2025-12-25",
+  "gross_pay": "3038.38",
+  "net_pay": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "pay_07011": {
+  "employer_name": "de Vries Hospitality DAC",
+  "employee_name": "Freja Bennett",
+  "pay_period_start": "2025-01-27",
+  "pay_period_end": "2025-02-02",
+  "gross_pay": "UNANSWERABLE",
+  "net_pay": "1195.04",
+  "currency": "EUR"
+ },
+ "pay_07012": {
+  "employer_name": "Rossi & Krishnan University",
+  "employee_name": "Jakub Bennett",
+  "pay_period_start": "2026-05-22",
+  "pay_period_end": "2026-06-04",
+  "gross_pay": "4701.19",
+  "net_pay": "3895.37",
+  "currency": "EUR"
+ },
+ "pay_07013": {
+  "employer_name": "Copperfield Retail Private Limited",
+  "employee_name": "Minh O'Donnell",
+  "pay_period_start": "2025-07-30",
+  "pay_period_end": "2025-08-12",
+  "gross_pay": "53506.08",
+  "net_pay": "28328.62",
+  "currency": "INR"
+ },
+ "pay_07014": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Anna Krishnan",
+  "pay_period_start": "2025-09-26",
+  "pay_period_end": "2025-10-25",
+  "gross_pay": "9943.09",
+  "net_pay": "6698.58",
+  "currency": "GBP"
+ },
+ "pay_07015": {
+  "employer_name": "Heron Northgate Media LLP",
+  "employee_name": "Hugo Singh",
+  "pay_period_start": "2026-04-17",
+  "pay_period_end": "2026-04-23",
+  "gross_pay": "1767.60",
+  "net_pay": "1199.26",
+  "currency": "GBP"
+ },
+ "pay_07016": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Ananya Byrne",
+  "pay_period_start": "2025-01-13",
+  "pay_period_end": "2025-01-27",
+  "gross_pay": "4375.18",
+  "net_pay": "3553.96",
+  "currency": "EUR"
+ },
+ "pay_07017": {
+  "employer_name": "Schmidt Telecom EURL",
+  "employee_name": "Hana Moreau",
+  "pay_period_start": "2026-02-23",
+  "pay_period_end": "2026-03-08",
+  "gross_pay": "6297.60",
+  "net_pay": "4795.56",
+  "currency": "EUR"
+ },
+ "pay_07018": {
+  "employer_name": "Harbor Hospitality Limited",
+  "employee_name": "Daan Fontaine",
+  "pay_period_start": "2025-05-05",
+  "pay_period_end": "2025-05-11",
+  "gross_pay": "586.60",
+  "net_pay": "515.58",
+  "currency": "GBP"
+ },
+ "pay_07019": {
+  "employer_name": "Murphy & Jansen Foods",
+  "employee_name": "Hugo Lefevre",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-08-03",
+  "gross_pay": "117498.06",
+  "net_pay": "57555.37",
+  "currency": "INR"
+ },
+ "pay_07020": {
+  "employer_name": "Kestrel Foxglove Logistics",
+  "employee_name": "Clara Ahmed",
+  "pay_period_start": "2025-12-26",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "117363.55",
+  "net_pay": "85015.65",
+  "currency": "INR"
+ },
+ "pay_07021": {
+  "employer_name": "Whitfield & Torres Engineering LLP",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-08-26",
+  "pay_period_end": "2025-09-01",
+  "gross_pay": "16846.74",
+  "net_pay": "9294.97",
+  "currency": "INR"
+ },
+ "pay_07022": {
+  "employer_name": "Brightwater Umber Foods",
+  "employee_name": "Lukas Deshpande",
+  "pay_period_start": "2025-07-06",
+  "pay_period_end": "2025-07-19",
+  "gross_pay": "7850.44",
+  "net_pay": "5614.84",
+  "currency": "EUR"
+ },
+ "pay_07023": {
+  "employer_name": "Sunrise Ivory Bank SA",
+  "employee_name": "Aoife Walsh",
+  "pay_period_start": "2026-01-04",
+  "pay_period_end": "2026-01-18",
+  "gross_pay": "7896.76",
+  "net_pay": "6675.64",
+  "currency": "EUR"
+ },
+ "pay_07024": {
+  "employer_name": "Zenith Consulting",
+  "employee_name": "Marco Novak",
+  "pay_period_start": "2025-08-20",
+  "pay_period_end": "2025-08-26",
+  "gross_pay": "1719.00",
+  "net_pay": "1353.51",
+  "currency": "EUR"
+ },
+ "pay_07025": {
+  "employer_name": "Kowalski & Navarro Analytics Ltd",
+  "employee_name": "Marco Sullivan",
+  "pay_period_start": "2025-09-15",
+  "pay_period_end": "2025-10-14",
+  "gross_pay": "1879.40",
+  "net_pay": "1453.76",
+  "currency": "GBP"
+ },
+ "pay_07026": {
+  "employer_name": "Jansen Telecom Group",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-03-08",
+  "pay_period_end": "2025-03-14",
+  "gross_pay": "910.00",
+  "net_pay": "371.69",
+  "currency": "USD"
+ },
+ "pay_07027": {
+  "employer_name": "Monarch Harbor Financial Services GmbH",
+  "employee_name": "Linh Dubois",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-02-25",
+  "gross_pay": "3711.57",
+  "net_pay": "2528.97",
+  "currency": "EUR"
+ },
+ "pay_07028": {
+  "employer_name": "Vantage University",
+  "employee_name": "Emil Okafor",
+  "pay_period_start": "2026-05-26",
+  "pay_period_end": "2026-06-08",
+  "gross_pay": "15722.00",
+  "net_pay": "11559.96",
+  "currency": "INR"
+ },
+ "pay_07029": {
+  "employer_name": "Umber Foods LLP",
+  "employee_name": "Camille Tanaka",
+  "pay_period_start": "2025-09-27",
+  "pay_period_end": "2025-10-11",
+  "gross_pay": "UNANSWERABLE",
+  "net_pay": "9340.88",
+  "currency": "INR"
+ },
+ "pay_08000": {
+  "employer_name": "WYI Bank Group",
+  "employee_name": "Anna Tanaka",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "2768.33",
+  "net_pay": "1271.93",
+  "currency": "USD"
+ },
+ "pay_08001": {
+  "employer_name": "ZL Retail LLC",
+  "employee_name": "Chidi Kowalski",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "10324.65",
+  "net_pay": "6099.42",
+  "currency": "USD"
+ },
+ "pay_08002": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-08-23",
+  "pay_period_end": "2025-09-05",
+  "gross_pay": "60830.87",
+  "net_pay": "33156.86",
+  "currency": "INR"
+ },
+ "pay_08003": {
+  "employer_name": "Alder Marigold Software",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2026-05-11",
+  "pay_period_end": "2026-05-17",
+  "gross_pay": "16664.12",
+  "net_pay": "11620.75",
+  "currency": "INR"
+ },
+ "pay_08004": {
+  "employer_name": "Hughes & Obi Engineering y C\u00eda.",
+  "employee_name": "Hugo Carter",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "5653.05",
+  "net_pay": "3917.07",
+  "currency": "EUR"
+ },
+ "pay_08005": {
+  "employer_name": "Vantage University Inc.",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-05-14",
+  "pay_period_end": "2025-05-27",
+  "gross_pay": "2817.48",
+  "net_pay": "1891.43",
+  "currency": "USD"
+ },
+ "pay_08006": {
+  "employer_name": "Zenith Vale Analytics",
+  "employee_name": "Clara Rossi",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "14877.30",
+  "net_pay": "6805.50",
+  "currency": "USD"
+ },
+ "pay_08007": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Minh Novak",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-12-12",
+  "gross_pay": "14519.25",
+  "net_pay": "12883.44",
+  "currency": "EUR"
+ },
+ "pay_08008": {
+  "employer_name": "Silverline Monarch Schools & Sons",
+  "employee_name": "Amara Marshall",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-07-31",
+  "gross_pay": "8052.72",
+  "net_pay": "6088.29",
+  "currency": "GBP"
+ },
+ "pay_08009": {
+  "employer_name": "Ironwood Alder Hospital Enterprises",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2026-03-07",
+  "pay_period_end": "2026-03-20",
+  "gross_pay": "56147.38",
+  "net_pay": "42234.54",
+  "currency": "INR"
+ },
+ "pay_08010": {
+  "employer_name": "Jansen Insurance y C\u00eda.",
+  "employee_name": "Hugo Jensen",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "9715.42",
+  "net_pay": "7235.56",
+  "currency": "EUR"
+ },
+ "pay_08011": {
+  "employer_name": "Chen & Garcia Hospitality Private Limited",
+  "employee_name": "Kenji Martin",
+  "pay_period_start": "2025-04-06",
+  "pay_period_end": "2025-04-20",
+  "gross_pay": "148304.68",
+  "net_pay": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "pay_08012": {
+  "employer_name": "JUJ Logistics LLP",
+  "employee_name": "Aiko Martin",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "4923.65",
+  "net_pay": "3769.74",
+  "currency": "GBP"
+ },
+ "pay_08013": {
+  "employer_name": "Greenline Bank",
+  "employee_name": "Amara Patel",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-12-07",
+  "gross_pay": "2847.66",
+  "net_pay": "1577.61",
+  "currency": "GBP"
+ },
+ "pay_08014": {
+  "employer_name": "Patel & Carter Construction Group",
+  "employee_name": "Hugo Andersen",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "6956.26",
+  "net_pay": "2664.84",
+  "currency": "USD"
+ },
+ "pay_08015": {
+  "employer_name": "Martin & Suzuki Construction e.K.",
+  "employee_name": "Aiko Walsh",
+  "pay_period_start": "2025-07-19",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "5825.87",
+  "net_pay": "3970.12",
+  "currency": "EUR"
+ },
+ "pay_08016": {
+  "employer_name": "Bakker & Mehta Retail Private Limited",
+  "employee_name": "Hana Cole",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-11-07",
+  "gross_pay": "79770.07",
+  "net_pay": "48460.17",
+  "currency": "INR"
+ },
+ "pay_08017": {
+  "employer_name": "Whitfield Software EURL",
+  "employee_name": "Freja Torres",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "885.24",
+  "net_pay": "632.68",
+  "currency": "EUR"
+ },
+ "pay_08018": {
+  "employer_name": "Vale Amber Pharma & Co.",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-09-22",
+  "pay_period_end": "2025-09-28",
+  "gross_pay": "50434.40",
+  "net_pay": "33050.40",
+  "currency": "INR"
+ },
+ "pay_08019": {
+  "employer_name": "VHD University Pvt Ltd",
+  "employee_name": "Nathan Carter",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "278243.60",
+  "net_pay": "153077.66",
+  "currency": "INR"
+ },
+ "pay_08020": {
+  "employer_name": "Sable Pioneer Airlines Group",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-01-05",
+  "pay_period_end": "2025-01-11",
+  "gross_pay": "2337.73",
+  "net_pay": "1320.51",
+  "currency": "USD"
+ },
+ "pay_08021": {
+  "employer_name": "Alder Nova Pharma LLP",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-06-25",
+  "pay_period_end": "2025-07-09",
+  "gross_pay": "3554.27",
+  "net_pay": "2862.09",
+  "currency": "GBP"
+ },
+ "pay_08022": {
+  "employer_name": "Nguyen & Whitfield University Corp.",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-02-07",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "7996.89",
+  "net_pay": "5333.62",
+  "currency": "USD"
+ },
+ "pay_08023": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-01-17",
+  "pay_period_end": "2025-01-30",
+  "gross_pay": "2730.49",
+  "net_pay": "2415.07",
+  "currency": "EUR"
+ },
+ "pay_08024": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Ethan Walsh",
+  "pay_period_start": "2025-04-20",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "3405.94",
+  "net_pay": "2764.91",
+  "currency": "EUR"
+ },
+ "pay_08025": {
+  "employer_name": "DQU Labs LLP",
+  "employee_name": "Mateo Okafor",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "14290.46",
+  "net_pay": "10755.39",
+  "currency": "GBP"
+ },
+ "pay_08026": {
+  "employer_name": "Okafor Pharma plc",
+  "employee_name": "Zofia Kowalski",
+  "pay_period_start": "2025-04-06",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "5376.94",
+  "net_pay": "3922.63",
+  "currency": "GBP"
+ },
+ "pay_08027": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2026-02-24",
+  "pay_period_end": "2026-03-02",
+  "gross_pay": "1646.00",
+  "net_pay": "1126.30",
+  "currency": "EUR"
+ },
+ "pay_08028": {
+  "employer_name": "Pinnacle Bank",
+  "employee_name": "Emil Torres",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "13722.19",
+  "net_pay": "9828.37",
+  "currency": "GBP"
+ },
+ "pay_08029": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Femke Reyes",
+  "pay_period_start": "2025-12-13",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "4646.40",
+  "net_pay": "2776.02",
+  "currency": "GBP"
+ },
+ "pay_08030": {
+  "employer_name": "Redwood Software",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2026-05-24",
+  "gross_pay": "251848.95",
+  "net_pay": "154511.35",
+  "currency": "INR"
+ },
+ "pay_08031": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Aiko Patel",
+  "pay_period_start": "2026-05-10",
+  "pay_period_end": "2026-05-16",
+  "gross_pay": "68568.01",
+  "net_pay": "48694.33",
+  "currency": "INR"
+ },
+ "pay_08032": {
+  "employer_name": "Fernandez & Sullivan Labs Ltd.",
+  "employee_name": "Nathan Tanaka",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "13148.63",
+  "net_pay": "10180.84",
+  "currency": "USD"
+ },
+ "pay_08033": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2026-03-14",
+  "pay_period_end": "2026-03-28",
+  "gross_pay": "4621.11",
+  "net_pay": "3252.35",
+  "currency": "GBP"
+ },
+ "pay_08034": {
+  "employer_name": "Lefevre & Bauer Hospital",
+  "employee_name": "Niamh Bauer",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-10-07",
+  "gross_pay": "60000.84",
+  "net_pay": "50203.01",
+  "currency": "INR"
+ },
+ "pay_08035": {
+  "employer_name": "Harbor Labs & Co.",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2026-02-06",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "55266.71",
+  "net_pay": "43008.46",
+  "currency": "INR"
+ },
+ "pay_08036": {
+  "employer_name": "Pinnacle Insurance",
+  "employee_name": "Mateo Carter",
+  "pay_period_start": "2025-07-25",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "4317.66",
+  "net_pay": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "pay_08037": {
+  "employer_name": "Beacon Foxglove Labs y C\u00eda.",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-05-11",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "6953.60",
+  "net_pay": "5316.64",
+  "currency": "EUR"
+ },
+ "pay_08038": {
+  "employer_name": "Hoffmann & Suzuki Software",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-05-12",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "1640.10",
+  "net_pay": "1305.57",
+  "currency": "USD"
+ },
+ "pay_08039": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Noah Navarro",
+  "pay_period_start": "2026-03-13",
+  "pay_period_end": "2026-03-27",
+  "gross_pay": "6414.67",
+  "net_pay": "2610.95",
+  "currency": "USD"
+ },
+ "pay_08040": {
+  "employer_name": "Rahman & Murphy Telecom Industries",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-08-11",
+  "pay_period_end": "2025-08-24",
+  "gross_pay": "151270.84",
+  "net_pay": "79390.50",
+  "currency": "INR"
+ },
+ "pay_08041": {
+  "employer_name": "Tidewater Falcon Insurance S.L.U.",
+  "employee_name": "Liam O'Donnell",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "1702.18",
+  "net_pay": "1316.97",
+  "currency": "EUR"
+ },
+ "pay_08042": {
+  "employer_name": "Mensah Consulting",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-05-08",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "9496.64",
+  "net_pay": "7160.45",
+  "currency": "GBP"
+ },
+ "pay_08043": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Emil Obi",
+  "pay_period_start": "2026-06-03",
+  "pay_period_end": "2026-06-09",
+  "gross_pay": "1955.10",
+  "net_pay": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "pay_08044": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Priya Chen",
+  "pay_period_start": "2025-05-11",
+  "pay_period_end": "2025-05-17",
+  "gross_pay": "809.25",
+  "net_pay": "504.58",
+  "currency": "GBP"
+ },
+ "pay_09000": {
+  "employer_name": "Pinnacle Insurance Group",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-12-28",
+  "gross_pay": "UNANSWERABLE",
+  "net_pay": "3638.86",
+  "currency": "USD"
+ },
+ "pay_09001": {
+  "employer_name": "Lima & Cole University",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-10-06",
+  "pay_period_end": "2025-10-12",
+  "gross_pay": "1689.48",
+  "net_pay": "1007.61",
+  "currency": "EUR"
+ },
+ "pay_09002": {
+  "employer_name": "Rahman Schools Pvt Ltd",
+  "employee_name": "Kofi Shankar",
+  "pay_period_start": "2025-11-12",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "97372.60",
+  "net_pay": "63810.86",
+  "currency": "INR"
+ },
+ "pay_09003": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Emil Hughes",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "2033.46",
+  "net_pay": "1491.43",
+  "currency": "EUR"
+ },
+ "pay_09004": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Isla Hughes",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "44173.78",
+  "net_pay": "28366.04",
+  "currency": "INR"
+ },
+ "pay_09005": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Yusuf Singh",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "3481.65",
+  "net_pay": "1933.36",
+  "currency": "USD"
+ },
+ "pay_09006": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-12-02",
+  "pay_period_end": "2025-12-16",
+  "gross_pay": "8688.59",
+  "net_pay": "4409.53",
+  "currency": "EUR"
+ },
+ "pay_09007": {
+  "employer_name": "Fernandez & Sullivan Medical Group S.L.",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "4475.00",
+  "net_pay": "2817.51",
+  "currency": "EUR"
+ },
+ "pay_09008": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-12-12",
+  "pay_period_end": "2026-01-10",
+  "gross_pay": "8198.27",
+  "net_pay": "7459.94",
+  "currency": "USD"
+ },
+ "pay_09009": {
+  "employer_name": "Marshall Bank Ltd.",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-10-12",
+  "pay_period_end": "2025-10-25",
+  "gross_pay": "UNANSWERABLE",
+  "net_pay": "5680.44",
+  "currency": "USD"
+ },
+ "pay_09010": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2026-03-17",
+  "gross_pay": "6510.36",
+  "net_pay": "5297.66",
+  "currency": "EUR"
+ },
+ "pay_09011": {
+  "employer_name": "Andersen & O'Donnell Health Limited",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2025-10-04",
+  "gross_pay": "1766.08",
+  "net_pay": "1344.89",
+  "currency": "EUR"
+ },
+ "pay_09012": {
+  "employer_name": "Westbrook Greenline Software Traders",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-02-15",
+  "pay_period_end": "2025-02-21",
+  "gross_pay": "25167.45",
+  "net_pay": "20356.11",
+  "currency": "INR"
+ },
+ "pay_09013": {
+  "employer_name": "Moreau Engineering & Sons",
+  "employee_name": "Jakub Carter",
+  "pay_period_start": "2025-08-08",
+  "pay_period_end": "2025-09-06",
+  "gross_pay": "UNANSWERABLE",
+  "net_pay": "4744.78",
+  "currency": "GBP"
+ },
+ "pay_09014": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Isla Vermeulen",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "2026-05-23",
+  "gross_pay": "4281.14",
+  "net_pay": "2863.17",
+  "currency": "EUR"
+ },
+ "pay_09015": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Camille Shankar",
+  "pay_period_start": "2025-05-02",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "1927.66",
+  "net_pay": "1423.56",
+  "currency": "EUR"
+ },
+ "pay_09016": {
+  "employer_name": "Navarro & Navarro Financial Services Private Limited",
+  "employee_name": "UNANSWERABLE",
+  "pay_period_start": "2025-10-03",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "338876.08",
+  "net_pay": "215461.59",
+  "currency": "INR"
+ },
+ "pay_09017": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Chidi Singh",
+  "pay_period_start": "2025-06-17",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "11253.24",
+  "net_pay": "7646.89",
+  "currency": "GBP"
+ },
+ "pay_09018": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Elena Moreau",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "14141.42",
+  "net_pay": "10351.67",
+  "currency": "GBP"
+ },
+ "pay_09019": {
+  "employer_name": "ZO Bank S.A.",
+  "employee_name": "Mateo Okafor",
+  "pay_period_start": "2025-11-21",
+  "pay_period_end": "2025-12-20",
+  "gross_pay": "UNANSWERABLE",
+  "net_pay": "2849.84",
+  "currency": "EUR"
+ },
+ "pay_09020": {
+  "employer_name": "UNANSWERABLE",
+  "employee_name": "Niamh Martin",
+  "pay_period_start": "2025-11-05",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "15244.57",
+  "net_pay": "10904.45",
+  "currency": "EUR"
+ },
+ "pay_09021": {
+  "employer_name": "Sullivan & Lefevre Construction",
+  "employee_name": "Ravi Nair",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "2348.64",
+  "net_pay": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "pay_09022": {
+  "employer_name": "Marshall & Deshpande Media",
+  "employee_name": "Marco Jensen",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "UNANSWERABLE",
+  "net_pay": "4979.84",
+  "currency": "GBP"
+ },
+ "pay_09023": {
+  "employer_name": "Umber Westbrook Consulting",
+  "employee_name": "Maya de Vries",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "2040.74",
+  "net_pay": "1294.46",
+  "currency": "GBP"
+ },
+ "pay_09024": {
+  "employer_name": "Monarch Airlines Group",
+  "employee_name": "Niamh Murphy",
+  "pay_period_start": "UNANSWERABLE",
+  "pay_period_end": "UNANSWERABLE",
+  "gross_pay": "8922.13",
+  "net_pay": "4518.49",
+  "currency": "USD"
+ },
+ "rcp_04000": {
+  "merchant_name": "Highfield Stationers",
+  "transaction_date": "2025-08-28",
+  "total_amount": "3570.37",
+  "tax_amount": "243.14",
+  "payment_method": "CARD",
+  "currency": "INR"
+ },
+ "rcp_04001": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-02-18",
+  "total_amount": "742.10",
+  "tax_amount": "56.56",
+  "payment_method": "CHEQUE",
+  "currency": "USD"
+ },
+ "rcp_04002": {
+  "merchant_name": "Trident Electronics Co.",
+  "transaction_date": "2025-03-13",
+  "total_amount": "483.65",
+  "tax_amount": "36.86",
+  "payment_method": "CARD",
+  "currency": "USD"
+ },
+ "rcp_04003": {
+  "merchant_name": "Golden Northgate Express Corp.",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "3563.56",
+  "tax_amount": "290.47",
+  "payment_method": "CARD",
+  "currency": "USD"
+ },
+ "rcp_04004": {
+  "merchant_name": "Summit Home & Garden Traders",
+  "transaction_date": "2026-02-24",
+  "total_amount": "1952.78",
+  "tax_amount": "209.23",
+  "payment_method": "UPI",
+  "currency": "INR"
+ },
+ "rcp_04005": {
+  "merchant_name": "Singh Service Station Group",
+  "transaction_date": "2026-04-21",
+  "total_amount": "736.04",
+  "tax_amount": "87.54",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_04006": {
+  "merchant_name": "Rahman's Diner S.A.",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "2684.12",
+  "tax_amount": "305.17",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_04007": {
+  "merchant_name": "Urban Summit",
+  "transaction_date": "2025-07-18",
+  "total_amount": "956.14",
+  "tax_amount": "145.86",
+  "payment_method": "CARD",
+  "currency": "INR"
+ },
+ "rcp_04008": {
+  "merchant_name": "Marigold Coffee",
+  "transaction_date": "2025-09-14",
+  "total_amount": "2577.74",
+  "tax_amount": "151.63",
+  "payment_method": "CASH",
+  "currency": "USD"
+ },
+ "rcp_04009": {
+  "merchant_name": "Marigold Coffee",
+  "transaction_date": "2026-02-27",
+  "total_amount": "1736.91",
+  "tax_amount": "379.95",
+  "payment_method": "CHEQUE",
+  "currency": "INR"
+ },
+ "rcp_04010": {
+  "merchant_name": "Greenline Hardware",
+  "transaction_date": "2026-05-17",
+  "total_amount": "930.07",
+  "tax_amount": "54.72",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_04011": {
+  "merchant_name": "Pinnacle Bakery",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "2598.16",
+  "tax_amount": "433.02",
+  "payment_method": "CASH",
+  "currency": "GBP"
+ },
+ "rcp_04012": {
+  "merchant_name": "Urban Umber",
+  "transaction_date": "2025-05-07",
+  "total_amount": "1511.53",
+  "tax_amount": "88.91",
+  "payment_method": "CASH",
+  "currency": "USD"
+ },
+ "rcp_04013": {
+  "merchant_name": "Corner Marigold Nook",
+  "transaction_date": "2025-03-03",
+  "total_amount": "457.07",
+  "tax_amount": "79.33",
+  "payment_method": "CHEQUE",
+  "currency": "EUR"
+ },
+ "rcp_04014": {
+  "merchant_name": "Vermeulen Patisserie",
+  "transaction_date": "2025-12-04",
+  "total_amount": "2432.36",
+  "tax_amount": "185.39",
+  "payment_method": "CASH",
+  "currency": "USD"
+ },
+ "rcp_04015": {
+  "merchant_name": "Harbor Fresh Mart & Co.",
+  "transaction_date": "2026-03-16",
+  "total_amount": "774.20",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CHEQUE",
+  "currency": "INR"
+ },
+ "rcp_04016": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-07-18",
+  "total_amount": "2430.75",
+  "tax_amount": "185.24",
+  "payment_method": "CHEQUE",
+  "currency": "USD"
+ },
+ "rcp_04017": {
+  "merchant_name": "Iyer's Diner",
+  "transaction_date": "2025-10-31",
+  "total_amount": "2100.87",
+  "tax_amount": "100.03",
+  "payment_method": "UPI",
+  "currency": "INR"
+ },
+ "rcp_04018": {
+  "merchant_name": "Iyer's Cafe",
+  "transaction_date": "2026-04-24",
+  "total_amount": "497.85",
+  "tax_amount": "23.71",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_04019": {
+  "merchant_name": "Vale Bakery",
+  "transaction_date": "2026-01-03",
+  "total_amount": "1237.21",
+  "tax_amount": "188.71",
+  "payment_method": "UPI",
+  "currency": "INR"
+ },
+ "rcp_04020": {
+  "merchant_name": "Zenith Hardware",
+  "transaction_date": "2026-02-14",
+  "total_amount": "1053.48",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_04021": {
+  "merchant_name": "Kingfisher Hardware",
+  "transaction_date": "2026-08-17",
+  "total_amount": "890.90",
+  "tax_amount": "95.46",
+  "payment_method": "CHEQUE",
+  "currency": "INR"
+ },
+ "rcp_04022": {
+  "merchant_name": "Walsh Tech",
+  "transaction_date": "2025-01-03",
+  "total_amount": "4053.10",
+  "tax_amount": "675.52",
+  "payment_method": "CASH",
+  "currency": "GBP"
+ },
+ "rcp_04023": {
+  "merchant_name": "Dubois Chemists Limited",
+  "transaction_date": "2025-10-08",
+  "total_amount": "1316.17",
+  "tax_amount": "63.84",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_04024": {
+  "merchant_name": "Bakker Service Station",
+  "transaction_date": "2026-03-26",
+  "total_amount": "1841.34",
+  "tax_amount": "152.04",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_04025": {
+  "merchant_name": "Tidewater Drugstore Co.",
+  "transaction_date": "2025-11-25",
+  "total_amount": "2090.38",
+  "tax_amount": "99.54",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_04026": {
+  "merchant_name": "Pixel Beacon Ltd",
+  "transaction_date": "2026-03-27",
+  "total_amount": "3307.95",
+  "tax_amount": "441.90",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_04027": {
+  "merchant_name": "Corner Ironwood Nook LLP",
+  "transaction_date": "2025-09-30",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "172.16",
+  "payment_method": "UPI",
+  "currency": "INR"
+ },
+ "rcp_04028": {
+  "merchant_name": "Sable Apparel",
+  "transaction_date": "2026-03-21",
+  "total_amount": "1354.85",
+  "tax_amount": "103.26",
+  "payment_method": "CARD",
+  "currency": "USD"
+ },
+ "rcp_04029": {
+  "merchant_name": "Java Kestrel Limited",
+  "transaction_date": "2025-01-01",
+  "total_amount": "980.97",
+  "tax_amount": "46.71",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_05000": {
+  "merchant_name": "Sunrise Market",
+  "transaction_date": "2025-08-14",
+  "total_amount": "1793.12",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_05001": {
+  "merchant_name": "Lakeside Gadgets",
+  "transaction_date": "2026-01-29",
+  "total_amount": "385.21",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_05002": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-03-29",
+  "total_amount": "1575.82",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CASH",
+  "currency": "GBP"
+ },
+ "rcp_05003": {
+  "merchant_name": "The Westbrook Table & Sons",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "2295.69",
+  "tax_amount": "382.61",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_05004": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-01-25",
+  "total_amount": "3419.34",
+  "tax_amount": "548.28",
+  "payment_method": "CASH",
+  "currency": "EUR"
+ },
+ "rcp_05005": {
+  "merchant_name": "Nova Fuel SAS",
+  "transaction_date": "2025-03-03",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "24.41",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_05006": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-07-14",
+  "total_amount": "1892.82",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UPI",
+  "currency": "INR"
+ },
+ "rcp_05007": {
+  "merchant_name": "Haddad Outfitters",
+  "transaction_date": "2026-05-02",
+  "total_amount": "810.04",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CASH",
+  "currency": "USD"
+ },
+ "rcp_05008": {
+  "merchant_name": "Orbit Apparel",
+  "transaction_date": "2026-03-11",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "135.91",
+  "payment_method": "CASH",
+  "currency": "GBP"
+ },
+ "rcp_05009": {
+  "merchant_name": "Sullivan & Sons Provisions",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "2438.98",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_05010": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1483.65",
+  "tax_amount": "158.95",
+  "payment_method": "CHEQUE",
+  "currency": "INR"
+ },
+ "rcp_05011": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1443.89",
+  "tax_amount": "220.25",
+  "payment_method": "CARD",
+  "currency": "INR"
+ },
+ "rcp_05012": {
+  "merchant_name": "Evergreen Roasters",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "718.25",
+  "tax_amount": "119.71",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_05013": {
+  "merchant_name": "Pixel Larkspur Pvt Ltd",
+  "transaction_date": "2026-07-31",
+  "total_amount": "716.24",
+  "tax_amount": "34.11",
+  "payment_method": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "rcp_05014": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-01-23",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "42.35",
+  "payment_method": "CARD",
+  "currency": "USD"
+ },
+ "rcp_05015": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1835.53",
+  "tax_amount": "87.41",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_05016": {
+  "merchant_name": "Marigold Market",
+  "transaction_date": "2025-02-11",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "537.35",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_05017": {
+  "merchant_name": "Northgate Bakery",
+  "transaction_date": "2025-11-15",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_05018": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-02-19",
+  "total_amount": "963.82",
+  "tax_amount": "160.64",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_05019": {
+  "merchant_name": "Vale Hardware",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "3597.80",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CHEQUE",
+  "currency": "GBP"
+ },
+ "rcp_05020": {
+  "merchant_name": "Walsh Chemists",
+  "transaction_date": "2026-08-18",
+  "total_amount": "2523.92",
+  "tax_amount": "120.19",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_05021": {
+  "merchant_name": "Copperfield Hardware Co.",
+  "transaction_date": "2026-03-07",
+  "total_amount": "3227.76",
+  "tax_amount": "263.11",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_05022": {
+  "merchant_name": "Pioneer Fresh Mart",
+  "transaction_date": "2026-02-16",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "249.75",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_05023": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-06-05",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "334.12",
+  "payment_method": "CASH",
+  "currency": "EUR"
+ },
+ "rcp_05024": {
+  "merchant_name": "Sable Hardware",
+  "transaction_date": "2025-07-12",
+  "total_amount": "1399.94",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_05025": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-11-13",
+  "total_amount": "2070.41",
+  "tax_amount": "345.07",
+  "payment_method": "CHEQUE",
+  "currency": "GBP"
+ },
+ "rcp_05026": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-01-28",
+  "total_amount": "2476.26",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "USD"
+ },
+ "rcp_05027": {
+  "merchant_name": "Ironwood Gadgets Co.",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1832.25",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CHEQUE",
+  "currency": "USD"
+ },
+ "rcp_05028": {
+  "merchant_name": "Lakeside Health Co.",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "809.63",
+  "tax_amount": "61.71",
+  "payment_method": "CASH",
+  "currency": "USD"
+ },
+ "rcp_05029": {
+  "merchant_name": "The Zenith Bean",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1217.71",
+  "tax_amount": "71.61",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_05030": {
+  "merchant_name": "Marigold Market",
+  "transaction_date": "2026-06-19",
+  "total_amount": "1081.77",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_05031": {
+  "merchant_name": "Sable Home & Garden",
+  "transaction_date": "2026-04-11",
+  "total_amount": "1532.30",
+  "tax_amount": "244.66",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_05032": {
+  "merchant_name": "QuickStop Juniper LLP",
+  "transaction_date": "2025-11-18",
+  "total_amount": "1930.79",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CHEQUE",
+  "currency": "INR"
+ },
+ "rcp_05033": {
+  "merchant_name": "Pixel Quartz S.A.",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "3119.52",
+  "tax_amount": "344.34",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_05034": {
+  "merchant_name": "Yellowstone Home & Garden LLC",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1830.83",
+  "tax_amount": "107.69",
+  "payment_method": "CARD",
+  "currency": "USD"
+ },
+ "rcp_05035": {
+  "merchant_name": "Greenline Petroleum",
+  "transaction_date": "2026-03-26",
+  "total_amount": "1591.58",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "USD"
+ },
+ "rcp_05036": {
+  "merchant_name": "Harbor Drugstore",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "3127.19",
+  "tax_amount": "290.04",
+  "payment_method": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "rcp_05037": {
+  "merchant_name": "Lefevre's Diner Co.",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "3392.46",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_05038": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-01-09",
+  "total_amount": "783.61",
+  "tax_amount": "52.97",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_05039": {
+  "merchant_name": "Urban Quartz",
+  "transaction_date": "2026-02-05",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "237.92",
+  "payment_method": "CHEQUE",
+  "currency": "USD"
+ },
+ "rcp_05040": {
+  "merchant_name": "Northgate Stationers",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "UNANSWERABLE",
+  "tax_amount": "28.41",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_05041": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1321.72",
+  "tax_amount": "201.61",
+  "payment_method": "CHEQUE",
+  "currency": "INR"
+ },
+ "rcp_05042": {
+  "merchant_name": "Summit Gadgets",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1480.28",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CHEQUE",
+  "currency": "EUR"
+ },
+ "rcp_05043": {
+  "merchant_name": "Northgate Foods",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1050.18",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "USD"
+ },
+ "rcp_05044": {
+  "merchant_name": "Star Latitude Bakes",
+  "transaction_date": "2025-10-22",
+  "total_amount": "2263.50",
+  "tax_amount": "184.49",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_06000": {
+  "merchant_name": "Marigold Threads",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "994.72",
+  "tax_amount": "81.09",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_06001": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1005.37",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CASH",
+  "currency": "INR"
+ },
+ "rcp_06002": {
+  "merchant_name": "Orbit Drugstore",
+  "transaction_date": "2025-01-19",
+  "total_amount": "3756.76",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_06003": {
+  "merchant_name": "Jensen Tools & Sons",
+  "transaction_date": "2025-05-01",
+  "total_amount": "1141.99",
+  "tax_amount": "99.47",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_06004": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-11-03",
+  "total_amount": "1100.32",
+  "tax_amount": "90.85",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_06005": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1075.93",
+  "tax_amount": "63.30",
+  "payment_method": "CASH",
+  "currency": "USD"
+ },
+ "rcp_06006": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-07-19",
+  "total_amount": "2323.80",
+  "tax_amount": "157.08",
+  "payment_method": "UNANSWERABLE",
+  "currency": "USD"
+ },
+ "rcp_06007": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "1052.94",
+  "tax_amount": "80.25",
+  "payment_method": "CHEQUE",
+  "currency": "USD"
+ },
+ "rcp_06008": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-01-27",
+  "total_amount": "1211.85",
+  "tax_amount": "201.98",
+  "payment_method": "CARD",
+  "currency": "GBP"
+ },
+ "rcp_06009": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-01-16",
+  "total_amount": "3743.74",
+  "tax_amount": "818.95",
+  "payment_method": "UPI",
+  "currency": "INR"
+ },
+ "rcp_06010": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-04-03",
+  "total_amount": "3622.00",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "rcp_06011": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "823.48",
+  "tax_amount": "39.22",
+  "payment_method": "CHEQUE",
+  "currency": "INR"
+ },
+ "rcp_06012": {
+  "merchant_name": "Suzuki Chemists",
+  "transaction_date": "2025-06-25",
+  "total_amount": "461.16",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_06013": {
+  "merchant_name": "Beacon Office Traders",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "2842.34",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "CARD",
+  "currency": "INR"
+ },
+ "rcp_06014": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-05-25",
+  "total_amount": "1379.72",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_06015": {
+  "merchant_name": "Trident Electronics",
+  "transaction_date": "2025-02-15",
+  "total_amount": "1587.34",
+  "tax_amount": "242.14",
+  "payment_method": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "rcp_06016": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-03-10",
+  "total_amount": "1253.70",
+  "tax_amount": "103.52",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_06017": {
+  "merchant_name": "Westbrook Fuel",
+  "transaction_date": "2026-03-01",
+  "total_amount": "771.29",
+  "tax_amount": "117.66",
+  "payment_method": "UNANSWERABLE",
+  "currency": "INR"
+ },
+ "rcp_06018": {
+  "merchant_name": "Cobalt Health N.V.",
+  "transaction_date": "UNANSWERABLE",
+  "total_amount": "834.48",
+  "tax_amount": "68.91",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_06019": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-01-13",
+  "total_amount": "1946.36",
+  "tax_amount": "101.46",
+  "payment_method": "CARD",
+  "currency": "EUR"
+ },
+ "rcp_06020": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2026-04-09",
+  "total_amount": "1192.76",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_06021": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-09-11",
+  "total_amount": "1262.47",
+  "tax_amount": "192.58",
+  "payment_method": "UPI",
+  "currency": "INR"
+ },
+ "rcp_06022": {
+  "merchant_name": "Quill Health Ltd",
+  "transaction_date": "2025-12-02",
+  "total_amount": "1958.09",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "GBP"
+ },
+ "rcp_06023": {
+  "merchant_name": "Nair Books & Paper",
+  "transaction_date": "2025-11-10",
+  "total_amount": "1320.16",
+  "tax_amount": "UNANSWERABLE",
+  "payment_method": "UNANSWERABLE",
+  "currency": "EUR"
+ },
+ "rcp_06024": {
+  "merchant_name": "UNANSWERABLE",
+  "transaction_date": "2025-02-20",
+  "total_amount": "4156.49",
+  "tax_amount": "445.35",
+  "payment_method": "CASH",
+  "currency": "INR"
+ }
+}

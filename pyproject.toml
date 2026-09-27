@@ -1,0 +1,13 @@
+[project]
+name = "infrrd-submission"
+version = "0.1.0"
+description = "Infrrd Research Intern Take-home"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "paddleocr==2.8.1",
+    "paddlepaddle>=2.6.0",
+    "python-dotenv>=1.0.1",
+    "setuptools",
+    "requests>=2.31.0",
+]

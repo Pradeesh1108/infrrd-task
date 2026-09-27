@@ -1,0 +1,162 @@
+{
+  "set": "dev",
+  "root_seed": 20260902,
+  "generator_commit": "84bbbb5",
+  "tool_versions": {
+    "playwright": "1.49.1",
+    "augraphy": "8.2.6",
+    "numpy": "1.26.4",
+    "opencv-python": "4.10.0.84"
+  },
+  "unanswerable_rate": 0.1971,
+  "images": [
+    {
+      "id": "inv_01000",
+      "doc_type": "invoice",
+      "file": "images/inv_01000.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "due_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01001",
+      "doc_type": "invoice",
+      "file": "images/inv_01001.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "due_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01002",
+      "doc_type": "invoice",
+      "file": "images/inv_01002.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "due_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01003",
+      "doc_type": "invoice",
+      "file": "images/inv_01003.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "due_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01004",
+      "doc_type": "invoice",
+      "file": "images/inv_01004.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "due_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01005",
+      "doc_type": "invoice",
+      "file": "images/inv_01005.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "due_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01006",
+      "doc_type": "invoice",
+      "file": "images/inv_01006.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01007",
+      "doc_type": "invoice",
+      "file": "images/inv_01007.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "due_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01008",
+      "doc_type": "invoice",
+      "file": "images/inv_01008.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    },
+    {
+      "id": "inv_01009",
+      "doc_type": "invoice",
+      "file": "images/inv_01009.png",
+      "fields": [
+        "vendor_name",
+        "invoice_number",
+        "invoice_date",
+        "due_date",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "currency"
+      ]
+    }
+  ]
+}
